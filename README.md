@@ -20,3 +20,6 @@
 
 ## Update from docs/merge-3063
 - Auto-generated changes
+
+## Update from docs/merge-1724
+- Auto-generated changes
