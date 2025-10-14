@@ -8,3 +8,6 @@
 
 ## Update from docs/merge-5772
 - Auto-generated changes
+
+## Update from fix/merge-7231
+- Auto-generated changes
