@@ -23,3 +23,6 @@
 
 ## Update from docs/merge-1724
 - Auto-generated changes
+
+## Update from refactor/merge-2227
+- Auto-generated changes
