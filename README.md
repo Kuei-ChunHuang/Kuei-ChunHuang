@@ -11,3 +11,6 @@
 
 ## Update from fix/merge-7231
 - Auto-generated changes
+
+## Update from docs/merge-8819
+- Auto-generated changes
