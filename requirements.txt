@@ -1,0 +1,8 @@
+pymongo
+langchain
+openai
+sentence-transformers
+torch
+fastapi
+uvicorn
+python-dotenv
